@@ -71,3 +71,4 @@
 - [Como fazer perguntas inteligentes - Klaus (@DevCaminhante)](https://gist.github.com/KlausEverWalkingDev/74bfd8e1a113fcfaf26f1fe648ff31b9)
 - [The Odin project](https://www.theodinproject.com/)
 - [UI Patterns](https://ui-patterns.com)
+- [QuickRef.ME](https://quickref.me/)
