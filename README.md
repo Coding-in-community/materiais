@@ -50,6 +50,7 @@
 - [React code examples](https://freefrontend.com/react-code-examples)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [useHooks](https://usehooks.com/)
+- [eBook e playlist sobre React Hooks](https://devacademy.com.br/ebooks/react-hooks/)
 
 ## Git e Github
 
@@ -62,8 +63,11 @@
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Chingu.io](https://www.chingu.io)
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas#readme)
+- [Dribbble](https://dribbble.com/)
+- [Mobbin](https://mobbin.design)
 
 ## Não categorizado
 
 - [Como fazer perguntas inteligentes - Klaus (@DevCaminhante)](https://gist.github.com/KlausEverWalkingDev/74bfd8e1a113fcfaf26f1fe648ff31b9)
 - [The Odin project](https://www.theodinproject.com/)
+- [UI Patterns](https://ui-patterns.com)
