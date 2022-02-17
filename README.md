@@ -28,6 +28,7 @@
 - [Responsive Web Design Course](https://www.freecodecamp.org/learn/responsive-web-design/)
 - [Curso completo e atual de HTML5 e CSS3 (5 módulos)](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 - [HTML Tutorial](https://www.w3schools.com/html/)
+- [Shay Howe Courses](https://learn.shayhowe.com)
 
 ## CSS
 
@@ -43,6 +44,8 @@
 - [Curso de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 - [Curso de JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/index.html)
+- [JavaScript Visualizer 9000](https://www.jsv9000.app)
 
 ## ReactJs
 
@@ -56,6 +59,7 @@
 
 - [Como usar Git e Github na prática: Guia para iniciantes | Rocketseat](https://youtu.be/2alg7MQ6_sI)
 - [Curso básico de Git - RBTech](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
+- [Learn Git Branching](https://learngitbranching.js.org)
 
 ## Ideias de projetos
 
@@ -65,6 +69,12 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas#readme)
 - [Dribbble](https://dribbble.com/)
 - [Mobbin](https://mobbin.design)
+
+## SQL
+- [SQLBolt](https://sqlbolt.com)
+
+## API
+- [RapidAPI Learn](https://rapidapi.com/learn)
 
 ## Não categorizado
 
