@@ -82,3 +82,6 @@
 - [The Odin project](https://www.theodinproject.com/)
 - [UI Patterns](https://ui-patterns.com)
 - [QuickRef.ME](https://quickref.me/)
+- [One Page Love](https://onepagelove.com/inspiration)
+- [Land-book](https://land-book.com/)
+- [Landing Folio](https://landingfolio.com/)
