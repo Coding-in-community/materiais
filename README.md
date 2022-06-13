@@ -72,6 +72,7 @@
 
 ## SQL
 - [SQLBolt](https://sqlbolt.com)
+- [Curso de SQL com MySQL (Completo) | Otávio Miranda](https://youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)
 
 ## API
 - [RapidAPI Learn](https://rapidapi.com/learn)
@@ -85,3 +86,5 @@
 - [One Page Love](https://onepagelove.com/inspiration)
 - [Land-book](https://land-book.com/)
 - [Landing Folio](https://landingfolio.com/)
+- [Clean Architecture | Cabra Dev](https://youtube.com/playlist?list=PLBD8to5dJhvyr07t03AjYYQ_8LNHrQKF4)
+- [Padrões de Projeto - Design Patterns (GoF) | Otávio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
