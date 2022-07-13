@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [ReactJs](#reactjs)
+- [Python](#python)
 - [Git e Github](#git-e-github)
 - [Ideias de projetos](#ideias-de-projetos)
 - [Não categorizado](#não-categorizado)
@@ -54,6 +55,17 @@
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [useHooks](https://usehooks.com/)
 - [eBook e playlist sobre React Hooks](https://devacademy.com.br/ebooks/react-hooks/)
+
+## Python
+
+- [O Tutorial Python - Documentação](https://docs.python.org/pt-br/3/tutorial/)
+- [A Biblioteca Padrão do Python - Documentação](https://docs.python.org/pt-br/3/library/)
+- [PEP 8 — o Guia de Estilo para Código Python](https://pep8.org/)
+- [O Guia do Mochileiro para Python](https://docs.python-guide.org/)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [Intermediate Python](https://book.pythontips.com/en/latest/index.html)
+- [Um guia para os métodos mágicos do Python](https://rszalski.github.io/magicmethods/)
+- [Real Python Tutorials](https://realpython.com/)
 
 ## Git e Github
 
