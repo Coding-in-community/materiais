@@ -102,3 +102,4 @@
 - [Clean Architecture | Cabra Dev](https://youtube.com/playlist?list=PLBD8to5dJhvyr07t03AjYYQ_8LNHrQKF4)
 - [Padrões de Projeto - Design Patterns (GoF) | Otávio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H)
 - [Learn React Native from examples](https://learnreactnative.dev/index.html)
+- [UXArchive](https://uxarchive.com)
