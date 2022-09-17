@@ -70,6 +70,7 @@
 | [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/) | N/D | EN | Texto | 2022 | Gratuito |
 | [useHooks](https://usehooks.com/) | N/D | EN | Texto | 2020 | Gratuito |
 | [eBook e playlist sobre React Hooks](https://devacademy.com.br/ebooks/react-hooks/) | Intermediário | PT | Vídeo | 2020 | Gratuito |
+| [useHooks-ts](https://usehooks-ts.com/) | Intermediário ao Avançado | PT | Texto | 2022 | Gratuito |
 
 
 ## Python
