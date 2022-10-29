@@ -106,6 +106,7 @@
 | [Dribbble](https://dribbble.com/) | N/D | EN | Texto & Imagens | 2022 | Gratuito & Pago |
 | [Mobbin](https://mobbin.design) | N/D | EN | Imagens | 2022 | Gratuito |
 | [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) | N/D | EN | Texto | 2022 | Gratuito |
+| [DevChallenge](https://www.devchallenge.com.br) | N/D | PT | Texto | 2022 | Gratuito |
 
 
 ## SQL
