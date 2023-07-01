@@ -107,6 +107,7 @@
 | [Mobbin](https://mobbin.design) | N/D | EN | Imagens | 2022 | Gratuito |
 | [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) | N/D | EN | Texto | 2022 | Gratuito |
 | [DevChallenge](https://www.devchallenge.com.br) | N/D | PT | Texto | 2022 | Gratuito |
+| [Godly](https://godly.website/) | N/D | EN | Imagens & Videos | 2023 | Gratuito |
 
 
 ## SQL
@@ -122,6 +123,16 @@
 | Conteúdo | Nível | Idioma | Tipo | Ano | Acesso |
 |----------|:-----:|:------:|:----:|:---:|:------:|
 | [RapidAPI Learn](https://rapidapi.com/learn) | Iniciante | EN | Texto | 2022 | Gratuito |
+
+## Design
+
+| Conteúdo | Nível | Idioma | Tipo | Ano | Acesso |
+|----------|:-----:|:------:|:----:|:---:|:------:|
+| [UI Goodies](https://uigoodies.com/) | N/D | EN | Texto | 2023 | Gratuito |
+| [Pricing Pages Ideas](https://pricingpageideas.com) | N/D | EN | Imagens | 2023 | Gratuito |
+| [Socia Media Sizes](https://socialsizes.io) | N/D | EN | Imagens e Texto | 2023 | Gratuito |
+| [Screen sizes](https://screensizes.app/) | N/D | EN | Imagens e Texto | 2023 | Gratuito |
+| [AI color palette generator](https://palettemaker.com/) | N/D | EN | Imagens e Texto | 2023 | Gratuito |
 
 
 ## Não categorizado
