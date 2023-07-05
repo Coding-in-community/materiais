@@ -15,6 +15,9 @@
 - [ReactJs](#reactjs)
 - [Python](#python)
 - [Git e Github](#git-e-github)
+- [SQL](#sql)
+- [API](#api)
+- [Design](#design)
 - [Ideias de projetos](#ideias-de-projetos)
 - [Não categorizado](#não-categorizado)
 
@@ -130,9 +133,9 @@
 |----------|:-----:|:------:|:----:|:---:|:------:|
 | [UI Goodies](https://uigoodies.com/) | N/D | EN | Texto | 2023 | Gratuito |
 | [Pricing Pages Ideas](https://pricingpageideas.com) | N/D | EN | Imagens | 2023 | Gratuito |
-| [Socia Media Sizes](https://socialsizes.io) | N/D | EN | Imagens e Texto | 2023 | Gratuito |
-| [Screen sizes](https://screensizes.app/) | N/D | EN | Imagens e Texto | 2023 | Gratuito |
-| [AI color palette generator](https://palettemaker.com/) | N/D | EN | Imagens e Texto | 2023 | Gratuito |
+| [Socia Media Sizes](https://socialsizes.io) | N/D | EN | Imagens & Texto | 2023 | Gratuito |
+| [Screen sizes](https://screensizes.app/) | N/D | EN | Imagens & Texto | 2023 | Gratuito |
+| [AI color palette generator](https://palettemaker.com/) | N/D | EN | Imagens & Texto | 2023 | Gratuito |
 
 
 ## Não categorizado
