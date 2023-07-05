@@ -99,20 +99,6 @@
 | [Learn Git Branching](https://learngitbranching.js.org) | Iniciante | PT | App | 2022 | Gratuito |
 
 
-## Ideias de projetos
-
-| Conteúdo | Nível | Idioma | Tipo | Ano | Acesso |
-|----------|:-----:|:------:|:----:|:---:|:------:|
-| [Frontend Mentor](https://www.frontendmentor.io/) | Iniciante ao Avançado | EN | Texto | 2022 | Gratuito & Pago |
-| [Chingu.io](https://www.chingu.io) | Iniciante | EN | Texto | 2022 | Gratuito |
-| [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas#readme) | Iniciante ao Avançado | EN | Texto | 2020 | Gratuito |
-| [Dribbble](https://dribbble.com/) | N/D | EN | Texto & Imagens | 2022 | Gratuito & Pago |
-| [Mobbin](https://mobbin.design) | N/D | EN | Imagens | 2022 | Gratuito |
-| [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) | N/D | EN | Texto | 2022 | Gratuito |
-| [DevChallenge](https://www.devchallenge.com.br) | N/D | PT | Texto | 2022 | Gratuito |
-| [Godly](https://godly.website/) | N/D | EN | Imagens & Videos | 2023 | Gratuito |
-
-
 ## SQL
 
 | Conteúdo | Nível | Idioma | Tipo | Ano | Acesso |
@@ -136,6 +122,20 @@
 | [Socia Media Sizes](https://socialsizes.io) | N/D | EN | Imagens & Texto | 2023 | Gratuito |
 | [Screen sizes](https://screensizes.app/) | N/D | EN | Imagens & Texto | 2023 | Gratuito |
 | [AI color palette generator](https://palettemaker.com/) | N/D | EN | Imagens & Texto | 2023 | Gratuito |
+
+
+## Ideias de projetos
+
+| Conteúdo | Nível | Idioma | Tipo | Ano | Acesso |
+|----------|:-----:|:------:|:----:|:---:|:------:|
+| [Frontend Mentor](https://www.frontendmentor.io/) | Iniciante ao Avançado | EN | Texto | 2022 | Gratuito & Pago |
+| [Chingu.io](https://www.chingu.io) | Iniciante | EN | Texto | 2022 | Gratuito |
+| [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas#readme) | Iniciante ao Avançado | EN | Texto | 2020 | Gratuito |
+| [Dribbble](https://dribbble.com/) | N/D | EN | Texto & Imagens | 2022 | Gratuito & Pago |
+| [Mobbin](https://mobbin.design) | N/D | EN | Imagens | 2022 | Gratuito |
+| [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) | N/D | EN | Texto | 2022 | Gratuito |
+| [DevChallenge](https://www.devchallenge.com.br) | N/D | PT | Texto | 2022 | Gratuito |
+| [Godly](https://godly.website/) | N/D | EN | Imagens & Videos | 2023 | Gratuito |
 
 
 ## Não categorizado
