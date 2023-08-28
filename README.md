@@ -153,3 +153,4 @@
 | [Padrões de Projeto - Otávio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H) | Intermediário | PT | Vídeo | 2020 | Gratuito |
 | [Learn React Native from examples](https://learnreactnative.dev/index.html) | N/D | EN | Texto & Imagens | 2022 | Gratuito |
 | [UXArchive](https://uxarchive.com) | N/D | EN | Texto & Imagens | 2022 | Gratuito |
+| [React Native Express](https://www.reactnative.express) | N/D | EN | Texto | 2023 | Gratuito |
