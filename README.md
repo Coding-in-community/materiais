@@ -154,3 +154,4 @@
 | [Learn React Native from examples](https://learnreactnative.dev/index.html) | N/D | EN | Texto & Imagens | 2022 | Gratuito |
 | [UXArchive](https://uxarchive.com) | N/D | EN | Texto & Imagens | 2022 | Gratuito |
 | [React Native Express](https://www.reactnative.express) | N/D | EN | Texto | 2023 | Gratuito |
+| [Free for Devs](https://free-for.dev/) | N/D | EN | Texto | 2024 | Gratuito |
