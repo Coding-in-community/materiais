@@ -155,3 +155,4 @@
 | [UXArchive](https://uxarchive.com) | N/D | EN | Texto & Imagens | 2022 | Gratuito |
 | [React Native Express](https://www.reactnative.express) | N/D | EN | Texto | 2023 | Gratuito |
 | [Free for Devs](https://free-for.dev/) | N/D | EN | Texto | 2024 | Gratuito |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | N/D | EN | Texto | 2024 | Gratuito |
